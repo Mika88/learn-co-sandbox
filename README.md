@@ -1,1 +1,1 @@
-# share_recipes_sinatra_project
+# share_a_mael_sinatra_app
